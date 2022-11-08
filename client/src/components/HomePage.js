@@ -2,7 +2,7 @@ import React from 'react'
 
 import Cleanup from './Cleanup'
 import EndLitter from './EndLitter'
-import Footer from './footer'
+import Footer from './Footer'
 import Header from './Header'
 import LitterStudy from './LitterStudy'
 import Partnering from './Partnering'
